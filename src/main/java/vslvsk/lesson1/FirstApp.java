@@ -9,7 +9,9 @@ public class FirstApp {
         int c = a + b;
         System.out.println("c="+c);
         System.out.println("Изменения прошли успешно");
+        System.out.println("test number2");
     }
     //классы
     //изменения
+    //ИЗМЕНЕНИЯ 22222
 }
